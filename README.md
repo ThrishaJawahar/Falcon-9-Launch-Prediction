@@ -1,6 +1,5 @@
-### **Title**: **Falcon 9 Launch Prediction Capstone Project**
+**Falcon 9 Launch Prediction Capstone Project**
 
-### **Overview for README File**:
 
 This project aims to analyze and predict Falcon 9 launch outcomes using machine learning techniques. The data includes various features related to Falcon 9 launches, including payload mass, launch site, mission outcomes, and more. The project involves cleaning the data, transforming it, performing exploratory data analysis (EDA), and building several machine learning models, such as Logistic Regression, Support Vector Machine (SVM), Decision Tree, and K-Nearest Neighbors (KNN). The models are then fine-tuned using hyperparameter optimization and evaluated based on their accuracy. The final goal is to identify the best-performing model to predict the launch success rate.
 
